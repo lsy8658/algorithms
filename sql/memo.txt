@@ -1,0 +1,7 @@
+WHERE 먼저 → SUV만 선택
+
+AVG() → 평균 계산
+
+ROUND(..., 1) → 소수 첫째 자리 반올림
+
+AS AVERAGE_FEE → 컬럼명 지정
